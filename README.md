@@ -1,2 +1,2 @@
 # Hamoye-
-(Data engineering and MLOps internship) Introduction to Python for Machine Learning
+Introduction to Python for Machine Learning Practices and Quizes
